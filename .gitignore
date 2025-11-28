@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS - Windows
+Thumbs.db
+*.lnk
+
+# OS - macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+.CFUserTextEncoding
+
+# OS - Linux
+.directory
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+obj/
+.gradle/
+build/
+local.properties
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+temp/
+.cache/
